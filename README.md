@@ -1,4 +1,4 @@
-fly-tailscale-exit
+[fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit)
 ------------------
 
 This repo shows how to run tailscale on fly, specifically to run exit nodes.
